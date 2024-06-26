@@ -1,1 +1,3 @@
-# jogo-da-memoria
+#Jogo da Memória
+
+Aplicação majoritária de JS.
